@@ -2,8 +2,9 @@ import React from "react";
 import AddNewProjectComponent from "../components/AddNewProjectComponent";
 import ProfileComponent from "../components/ProfileComponent";
 import ProjectListComponent from "../components/ProjectListComponent";
-import "../assets/profile.css"
+import "../assets/profile.css";
 import { Button } from "semantic-ui-react";
+import UserDeleteComponent from "../components/UserDeleteComponent";
 
 export default function Profile() {
   return (
@@ -11,7 +12,7 @@ export default function Profile() {
       <ProfileComponent />
       <AddNewProjectComponent />
       <ProjectListComponent />
-      <div id="deleteuser"><Button negative>DELETE USER</Button></div>
+      <UserDeleteComponent />
     </div>
   );
 }
