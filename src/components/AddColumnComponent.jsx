@@ -24,7 +24,7 @@ export default function AddColumnComponent(props) {
     <div id="box">
       <form onSubmit={handleClick}>
         <Input
-          id="newinput"
+          className="newinput"
           value={newColumn}
           onChange={(e) => setNewColumn(e.target.value)}
           placeholder="New Column"

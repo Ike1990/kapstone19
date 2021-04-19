@@ -19,6 +19,7 @@ export default function CompletedColumnComponent(props) {
             />
           ))}
       </div>
+      <div id="dc2"></div>
     </div>
   );
 }
