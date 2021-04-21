@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/kapstone19/static/css/main.c1351574.chunk.css",
-    "main.js": "/kapstone19/static/js/main.0743eb77.chunk.js",
-    "main.js.map": "/kapstone19/static/js/main.0743eb77.chunk.js.map",
+    "main.js": "/kapstone19/static/js/main.aff345d2.chunk.js",
+    "main.js.map": "/kapstone19/static/js/main.aff345d2.chunk.js.map",
     "runtime-main.js": "/kapstone19/static/js/runtime-main.ca9fb043.js",
     "runtime-main.js.map": "/kapstone19/static/js/runtime-main.ca9fb043.js.map",
     "static/css/2.e19b1e49.chunk.css": "/kapstone19/static/css/2.e19b1e49.chunk.css",
@@ -14,6 +14,9 @@
     "static/css/2.e19b1e49.chunk.css.map": "/kapstone19/static/css/2.e19b1e49.chunk.css.map",
     "static/css/main.c1351574.chunk.css.map": "/kapstone19/static/css/main.c1351574.chunk.css.map",
     "static/js/2.7069ecba.chunk.js.LICENSE.txt": "/kapstone19/static/js/2.7069ecba.chunk.js.LICENSE.txt",
+    "static/media/DixonProfilePic.a027a798.jpg": "/kapstone19/static/media/DixonProfilePic.a027a798.jpg",
+    "static/media/SebProfilePic.75150f7a.png": "/kapstone19/static/media/SebProfilePic.75150f7a.png",
+    "static/media/Self_portrait.465fb880.png": "/kapstone19/static/media/Self_portrait.465fb880.png",
     "static/media/semantic.min.css": "/kapstone19/static/media/outline-icons.ddae9b1b.woff"
   },
   "entrypoints": [
@@ -21,6 +24,6 @@
     "static/css/2.e19b1e49.chunk.css",
     "static/js/2.7069ecba.chunk.js",
     "static/css/main.c1351574.chunk.css",
-    "static/js/main.0743eb77.chunk.js"
+    "static/js/main.aff345d2.chunk.js"
   ]
 }
