@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/kapstone19/static/css/main.c04dfda9.chunk.css",
-    "main.js": "/kapstone19/static/js/main.2d7fa376.chunk.js",
-    "main.js.map": "/kapstone19/static/js/main.2d7fa376.chunk.js.map",
+    "main.js": "/kapstone19/static/js/main.f8785384.chunk.js",
+    "main.js.map": "/kapstone19/static/js/main.f8785384.chunk.js.map",
     "runtime-main.js": "/kapstone19/static/js/runtime-main.d609edea.js",
     "runtime-main.js.map": "/kapstone19/static/js/runtime-main.d609edea.js.map",
     "static/css/2.e19b1e49.chunk.css": "/kapstone19/static/css/2.e19b1e49.chunk.css",
@@ -27,6 +27,6 @@
     "static/css/2.e19b1e49.chunk.css",
     "static/js/2.f58185c4.chunk.js",
     "static/css/main.c04dfda9.chunk.css",
-    "static/js/main.2d7fa376.chunk.js"
+    "static/js/main.f8785384.chunk.js"
   ]
 }
